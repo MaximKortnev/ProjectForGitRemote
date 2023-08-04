@@ -7,6 +7,7 @@ namespace GitPractic
     {
         static void Main(string[] args)
         {
+            // Изменение для подзадачи 1
             Console.WriteLine("Hello World");
         }
     }
