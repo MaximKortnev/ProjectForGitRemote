@@ -8,5 +8,6 @@ namespace ProjectForGit
 {
     internal class User
     {
+        //12у312в12а
     }
 }
