@@ -10,7 +10,7 @@ namespace GitPractic
             Console.WriteLine("Hello World");
 
 
-
+            // Bpvtytybt lkz tskk _ 8
 
         }
     }
