@@ -1,1 +1,1 @@
-# ProjectForGit
+My GIT test project
