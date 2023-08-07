@@ -9,7 +9,7 @@ namespace ProjectForGit
     internal class Book
     {
         // Подзадача 2 
-
+        // Выполнил задачу 33
 
 
 
